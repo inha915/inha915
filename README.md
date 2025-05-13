@@ -10,5 +10,5 @@
   <div align="center"> 
  <br/>
  <br/>
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=inha's git%20글자&fontColor=393E46&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=inha's git&fontColor=393E46&fontSize=90)
 </div>
