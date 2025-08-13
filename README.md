@@ -9,10 +9,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=inha's%20GitHub&fontColor=393E46&fontSize=80&animation=fadeIn)
 
 <div align="center">
-
-💡 <strong>안녕하세요 개발을 통해 더 나은 협업과 생산성을 고민하는 박인하입니다.</strong><br>
-👩‍💻 프론트엔드에서 시작해 이제는 풀스택 개발자로 도전하고 있어요.<br>
-
 ---
 
 ### 💻 Tech Stack
